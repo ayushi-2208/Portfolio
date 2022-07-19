@@ -40,7 +40,7 @@ function Projects() {
               description="A web application which show who i am.
               A web application which show what my projects, skills, past experience.
               At last you can download my CV also in this web application."
-              link=""
+              link="https://portfolio-wheat-mu.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
